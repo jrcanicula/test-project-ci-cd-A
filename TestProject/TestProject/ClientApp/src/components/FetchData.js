@@ -37,7 +37,7 @@ function renderForecastsTable(props) {
           <th>Date</th>
           <th>Temp. (C)</th>
           <th>Temp. (F)</th>
-          <th>Summary</th>
+          <th>Summary TEST</th>
         </tr>
       </thead>
       <tbody>
